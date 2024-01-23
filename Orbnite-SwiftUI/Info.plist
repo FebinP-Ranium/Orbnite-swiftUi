@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+    <array>
+        <string>nunito.black-italic.ttf</string>
+        <string>nunito.black.ttf</string>
+        <string>nunito.bold-italic.ttf</string>
+        <string>nunito.bold.ttf</string>
+        <string>nunito.extrabold-italic.ttf</string>
+        <string>nunito.extrabold.ttf</string>
+        <string>nunito.extralight-italic.ttf</string>
+        <string>nunito.extralight.ttf</string>
+        <string>nunito.italic.ttf</string>
+        <string>nunito.light-italic.ttf</string>
+        <string>nunito.light.ttf</string>
+        <string>nunito.regular.ttf</string>
+        <string>nunito.semibold-italic.ttf</string>
+        <string>nunito.semibold.ttf</string>
+    </array>
+</dict>
+</plist>

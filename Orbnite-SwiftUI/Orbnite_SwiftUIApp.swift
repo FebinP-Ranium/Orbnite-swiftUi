@@ -11,7 +11,7 @@ import SwiftUI
 struct Orbnite_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }

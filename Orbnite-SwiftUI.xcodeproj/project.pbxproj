@@ -3,22 +3,59 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D5408CC2B5F81E200C86EA6 /* nunito.extrabold-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408BE2B5F81E000C86EA6 /* nunito.extrabold-italic.ttf */; };
+		0D5408CD2B5F81E200C86EA6 /* nunito.extrabold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408BF2B5F81E000C86EA6 /* nunito.extrabold.ttf */; };
+		0D5408CE2B5F81E200C86EA6 /* nunito.light-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C02B5F81E000C86EA6 /* nunito.light-italic.ttf */; };
+		0D5408CF2B5F81E200C86EA6 /* nunito.extralight-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C12B5F81E000C86EA6 /* nunito.extralight-italic.ttf */; };
+		0D5408D02B5F81E200C86EA6 /* nunito.extralight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C22B5F81E000C86EA6 /* nunito.extralight.ttf */; };
+		0D5408D12B5F81E200C86EA6 /* nunito.regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C32B5F81E000C86EA6 /* nunito.regular.ttf */; };
+		0D5408D22B5F81E200C86EA6 /* nunito.italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C42B5F81E100C86EA6 /* nunito.italic.ttf */; };
+		0D5408D32B5F81E200C86EA6 /* nunito.bold-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C52B5F81E100C86EA6 /* nunito.bold-italic.ttf */; };
+		0D5408D42B5F81E200C86EA6 /* nunito.black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C62B5F81E100C86EA6 /* nunito.black.ttf */; };
+		0D5408D52B5F81E200C86EA6 /* nunito.semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C72B5F81E100C86EA6 /* nunito.semibold.ttf */; };
+		0D5408D62B5F81E200C86EA6 /* nunito.black-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C82B5F81E100C86EA6 /* nunito.black-italic.ttf */; };
+		0D5408D72B5F81E200C86EA6 /* nunito.semibold-italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408C92B5F81E100C86EA6 /* nunito.semibold-italic.ttf */; };
+		0D5408D82B5F81E200C86EA6 /* nunito.light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408CA2B5F81E100C86EA6 /* nunito.light.ttf */; };
+		0D5408D92B5F81E200C86EA6 /* nunito.bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0D5408CB2B5F81E200C86EA6 /* nunito.bold.ttf */; };
+		0D5408E02B5F825E00C86EA6 /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5408DF2B5F825E00C86EA6 /* Color+Ext.swift */; };
+		0D5408E52B5F829200C86EA6 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5408E42B5F829200C86EA6 /* LoginView.swift */; };
+		0D5408EA2B5F859E00C86EA6 /* MCTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5408E92B5F859E00C86EA6 /* MCTextView.swift */; };
 		0DB64E2A2B5E646500B8E130 /* Orbnite_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB64E292B5E646500B8E130 /* Orbnite_SwiftUIApp.swift */; };
-		0DB64E2C2B5E646500B8E130 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DB64E2B2B5E646500B8E130 /* ContentView.swift */; };
 		0DB64E2E2B5E646600B8E130 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DB64E2D2B5E646600B8E130 /* Assets.xcassets */; };
 		0DB64E312B5E646600B8E130 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DB64E302B5E646600B8E130 /* Preview Assets.xcassets */; };
+		31A5FA80EF98BF73DFA57362 /* Pods_Orbnite_SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B1A2D043B92F5732FF9DEE5 /* Pods_Orbnite_SwiftUI.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D5408BE2B5F81E000C86EA6 /* nunito.extrabold-italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nunito.extrabold-italic.ttf"; sourceTree = "<group>"; };
+		0D5408BF2B5F81E000C86EA6 /* nunito.extrabold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nunito.extrabold.ttf; sourceTree = "<group>"; };
+		0D5408C02B5F81E000C86EA6 /* nunito.light-italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nunito.light-italic.ttf"; sourceTree = "<group>"; };
+		0D5408C12B5F81E000C86EA6 /* nunito.extralight-italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nunito.extralight-italic.ttf"; sourceTree = "<group>"; };
+		0D5408C22B5F81E000C86EA6 /* nunito.extralight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nunito.extralight.ttf; sourceTree = "<group>"; };
+		0D5408C32B5F81E000C86EA6 /* nunito.regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nunito.regular.ttf; sourceTree = "<group>"; };
+		0D5408C42B5F81E100C86EA6 /* nunito.italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nunito.italic.ttf; sourceTree = "<group>"; };
+		0D5408C52B5F81E100C86EA6 /* nunito.bold-italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nunito.bold-italic.ttf"; sourceTree = "<group>"; };
+		0D5408C62B5F81E100C86EA6 /* nunito.black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nunito.black.ttf; sourceTree = "<group>"; };
+		0D5408C72B5F81E100C86EA6 /* nunito.semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nunito.semibold.ttf; sourceTree = "<group>"; };
+		0D5408C82B5F81E100C86EA6 /* nunito.black-italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nunito.black-italic.ttf"; sourceTree = "<group>"; };
+		0D5408C92B5F81E100C86EA6 /* nunito.semibold-italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nunito.semibold-italic.ttf"; sourceTree = "<group>"; };
+		0D5408CA2B5F81E100C86EA6 /* nunito.light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nunito.light.ttf; sourceTree = "<group>"; };
+		0D5408CB2B5F81E200C86EA6 /* nunito.bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = nunito.bold.ttf; sourceTree = "<group>"; };
+		0D5408DF2B5F825E00C86EA6 /* Color+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
+		0D5408E42B5F829200C86EA6 /* LoginView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		0D5408E62B5F830700C86EA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		0D5408E92B5F859E00C86EA6 /* MCTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MCTextView.swift; sourceTree = "<group>"; };
 		0DB64E262B5E646500B8E130 /* Orbnite-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Orbnite-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DB64E292B5E646500B8E130 /* Orbnite_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orbnite_SwiftUIApp.swift; sourceTree = "<group>"; };
-		0DB64E2B2B5E646500B8E130 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0DB64E2D2B5E646600B8E130 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DB64E302B5E646600B8E130 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0ECC7864E9BD1B875539E0B6 /* Pods-Orbnite-SwiftUI.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Orbnite-SwiftUI.debug.xcconfig"; path = "Target Support Files/Pods-Orbnite-SwiftUI/Pods-Orbnite-SwiftUI.debug.xcconfig"; sourceTree = "<group>"; };
+		6A6CF5EC2058F0864C36766C /* Pods-Orbnite-SwiftUI.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Orbnite-SwiftUI.release.xcconfig"; path = "Target Support Files/Pods-Orbnite-SwiftUI/Pods-Orbnite-SwiftUI.release.xcconfig"; sourceTree = "<group>"; };
+		9B1A2D043B92F5732FF9DEE5 /* Pods_Orbnite_SwiftUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Orbnite_SwiftUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,17 +63,84 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31A5FA80EF98BF73DFA57362 /* Pods_Orbnite_SwiftUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0D5408BD2B5F81CE00C86EA6 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				0D5408C82B5F81E100C86EA6 /* nunito.black-italic.ttf */,
+				0D5408C62B5F81E100C86EA6 /* nunito.black.ttf */,
+				0D5408C52B5F81E100C86EA6 /* nunito.bold-italic.ttf */,
+				0D5408CB2B5F81E200C86EA6 /* nunito.bold.ttf */,
+				0D5408BE2B5F81E000C86EA6 /* nunito.extrabold-italic.ttf */,
+				0D5408BF2B5F81E000C86EA6 /* nunito.extrabold.ttf */,
+				0D5408C12B5F81E000C86EA6 /* nunito.extralight-italic.ttf */,
+				0D5408C22B5F81E000C86EA6 /* nunito.extralight.ttf */,
+				0D5408C42B5F81E100C86EA6 /* nunito.italic.ttf */,
+				0D5408C02B5F81E000C86EA6 /* nunito.light-italic.ttf */,
+				0D5408CA2B5F81E100C86EA6 /* nunito.light.ttf */,
+				0D5408C32B5F81E000C86EA6 /* nunito.regular.ttf */,
+				0D5408C92B5F81E100C86EA6 /* nunito.semibold-italic.ttf */,
+				0D5408C72B5F81E100C86EA6 /* nunito.semibold.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		0D5408DA2B5F822400C86EA6 /* XtraResource */ = {
+			isa = PBXGroup;
+			children = (
+				0D5408E12B5F826500C86EA6 /* Views */,
+				0D5408DE2B5F825300C86EA6 /* Extension */,
+				0D5408DB2B5F823E00C86EA6 /* FloatingBoarder */,
+			);
+			path = XtraResource;
+			sourceTree = "<group>";
+		};
+		0D5408DB2B5F823E00C86EA6 /* FloatingBoarder */ = {
+			isa = PBXGroup;
+			children = (
+				0D5408E92B5F859E00C86EA6 /* MCTextView.swift */,
+			);
+			path = FloatingBoarder;
+			sourceTree = "<group>";
+		};
+		0D5408DE2B5F825300C86EA6 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				0D5408DF2B5F825E00C86EA6 /* Color+Ext.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		0D5408E12B5F826500C86EA6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0D5408E32B5F828400C86EA6 /* LoginView */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		0D5408E32B5F828400C86EA6 /* LoginView */ = {
+			isa = PBXGroup;
+			children = (
+				0D5408E42B5F829200C86EA6 /* LoginView.swift */,
+			);
+			path = LoginView;
+			sourceTree = "<group>";
+		};
 		0DB64E1D2B5E646500B8E130 = {
 			isa = PBXGroup;
 			children = (
+				0D5408BD2B5F81CE00C86EA6 /* Font */,
 				0DB64E282B5E646500B8E130 /* Orbnite-SwiftUI */,
 				0DB64E272B5E646500B8E130 /* Products */,
+				9E6FD9179FB2D35890CC0A7F /* Pods */,
+				AC50581976F32C084CE4C45A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,8 +155,9 @@
 		0DB64E282B5E646500B8E130 /* Orbnite-SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				0D5408E62B5F830700C86EA6 /* Info.plist */,
+				0D5408DA2B5F822400C86EA6 /* XtraResource */,
 				0DB64E292B5E646500B8E130 /* Orbnite_SwiftUIApp.swift */,
-				0DB64E2B2B5E646500B8E130 /* ContentView.swift */,
 				0DB64E2D2B5E646600B8E130 /* Assets.xcassets */,
 				0DB64E2F2B5E646600B8E130 /* Preview Content */,
 			);
@@ -67,6 +172,23 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		9E6FD9179FB2D35890CC0A7F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0ECC7864E9BD1B875539E0B6 /* Pods-Orbnite-SwiftUI.debug.xcconfig */,
+				6A6CF5EC2058F0864C36766C /* Pods-Orbnite-SwiftUI.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		AC50581976F32C084CE4C45A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9B1A2D043B92F5732FF9DEE5 /* Pods_Orbnite_SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -74,9 +196,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0DB64E342B5E646600B8E130 /* Build configuration list for PBXNativeTarget "Orbnite-SwiftUI" */;
 			buildPhases = (
+				6EC4CFED88E52F6AA86FCAD7 /* [CP] Check Pods Manifest.lock */,
 				0DB64E222B5E646500B8E130 /* Sources */,
 				0DB64E232B5E646500B8E130 /* Frameworks */,
 				0DB64E242B5E646500B8E130 /* Resources */,
+				988734961C347839B8198760 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -103,7 +227,7 @@
 				};
 			};
 			buildConfigurationList = 0DB64E212B5E646500B8E130 /* Build configuration list for PBXProject "Orbnite-SwiftUI" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -125,20 +249,78 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D5408CF2B5F81E200C86EA6 /* nunito.extralight-italic.ttf in Resources */,
+				0D5408CD2B5F81E200C86EA6 /* nunito.extrabold.ttf in Resources */,
+				0D5408CC2B5F81E200C86EA6 /* nunito.extrabold-italic.ttf in Resources */,
+				0D5408D12B5F81E200C86EA6 /* nunito.regular.ttf in Resources */,
+				0D5408D22B5F81E200C86EA6 /* nunito.italic.ttf in Resources */,
+				0D5408D52B5F81E200C86EA6 /* nunito.semibold.ttf in Resources */,
+				0D5408D62B5F81E200C86EA6 /* nunito.black-italic.ttf in Resources */,
+				0D5408D92B5F81E200C86EA6 /* nunito.bold.ttf in Resources */,
 				0DB64E312B5E646600B8E130 /* Preview Assets.xcassets in Resources */,
+				0D5408D82B5F81E200C86EA6 /* nunito.light.ttf in Resources */,
+				0D5408CE2B5F81E200C86EA6 /* nunito.light-italic.ttf in Resources */,
 				0DB64E2E2B5E646600B8E130 /* Assets.xcassets in Resources */,
+				0D5408D02B5F81E200C86EA6 /* nunito.extralight.ttf in Resources */,
+				0D5408D72B5F81E200C86EA6 /* nunito.semibold-italic.ttf in Resources */,
+				0D5408D32B5F81E200C86EA6 /* nunito.bold-italic.ttf in Resources */,
+				0D5408D42B5F81E200C86EA6 /* nunito.black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6EC4CFED88E52F6AA86FCAD7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Orbnite-SwiftUI-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		988734961C347839B8198760 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Orbnite-SwiftUI/Pods-Orbnite-SwiftUI-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Orbnite-SwiftUI/Pods-Orbnite-SwiftUI-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Orbnite-SwiftUI/Pods-Orbnite-SwiftUI-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		0DB64E222B5E646500B8E130 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0DB64E2C2B5E646500B8E130 /* ContentView.swift in Sources */,
+				0D5408E02B5F825E00C86EA6 /* Color+Ext.swift in Sources */,
+				0D5408EA2B5F859E00C86EA6 /* MCTextView.swift in Sources */,
 				0DB64E2A2B5E646500B8E130 /* Orbnite_SwiftUIApp.swift in Sources */,
+				0D5408E52B5F829200C86EA6 /* LoginView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +443,7 @@
 		};
 		0DB64E352B5E646600B8E130 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0ECC7864E9BD1B875539E0B6 /* Pods-Orbnite-SwiftUI.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -270,6 +453,7 @@
 				DEVELOPMENT_TEAM = 75CBBD7F7Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Orbnite-SwiftUI/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -290,6 +474,7 @@
 		};
 		0DB64E362B5E646600B8E130 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A6CF5EC2058F0864C36766C /* Pods-Orbnite-SwiftUI.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -299,6 +484,7 @@
 				DEVELOPMENT_TEAM = 75CBBD7F7Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Orbnite-SwiftUI/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
